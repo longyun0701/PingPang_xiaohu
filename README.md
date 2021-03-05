@@ -1,5 +1,5 @@
-ÈçÒªÔËÐÐPingPong_game_xiaohu.py£¬Çë°´ÒÔÏÂÒªÇó²Ù×÷£º
-1.°Ñ hit.wav ¡¢die.wav¡¢over.wav¡¢clust.png¡¢PingPong_game_xiaohu.py ¿½µ½×ÀÃæÉÏ
-2.ÓÃPython3.2.5Óëpygame-1.9.2°²×°³ÌÐò°²×°py3.2ºÍpg1.9
-3.ÔÚ×ÀÃæÉÏË«»÷PingPong_game_xiaohu.py£¬½øÈëÒ»¸öºÚÉ«µÄ¡¢ÓÐ¸öÇòµÄ½çÃæ¡£
-4.¾¡ÇéµØÍæ°É£¡
+å¦‚è¦è¿è¡ŒPingPong_game_xiaohu.pyï¼Œè¯·æŒ‰ä»¥ä¸‹è¦æ±‚æ“ä½œï¼š  
+1.æŠŠ hit.wav ã€die.wavã€over.wavã€clust.pngã€PingPong_game_xiaohu.py æ‹·åˆ°æ¡Œé¢ä¸Š  
+2.ç”¨Python3.2.5ä¸Žpygame-1.9.2å®‰è£…ç¨‹åºå®‰è£…py3.2å’Œpg1.9  
+3.åœ¨æ¡Œé¢ä¸ŠåŒå‡»PingPong_game_xiaohu.pyï¼Œè¿›å…¥ä¸€ä¸ªé»‘è‰²çš„ã€æœ‰ä¸ªçƒçš„ç•Œé¢ã€‚  
+4.å°½æƒ…åœ°çŽ©å§ï¼
