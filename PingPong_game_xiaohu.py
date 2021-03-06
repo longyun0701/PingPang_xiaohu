@@ -13,6 +13,7 @@ pygame.mixer.init()
 die=pygame.mixer.Sound('die.wav')
 hit=pygame.mixer.Sound('hit.wav')
 over=pygame.mixer.Sound('over.wav')
+win=pygame.mixer.Sound('win.wav')
 picx=0
 picy=0
 BLK=(0,0,0)
@@ -97,7 +98,12 @@ while keepGoing:
         points1=int(points)
         over.play()
         draw_string="GAME OVER. Your score was "+str(points1)+"("+str(points)+"). Press F1 to play again."
-        count+=1       
+        count+=1
+    if (points>50):
+        spdx=spdy=0
+        win.play()
+        draw_string="YOU WIN!!!!!!!!!! Your points was higher than 50 points!!!"
+        count+=1
     text=font.render(draw_string,True,WHT)
     text_rect=text.get_rect()
     text_rect.centerx=screen.get_rect().centerx
